@@ -1,0 +1,16 @@
+{
+  "name": "notion-sync-vectordb",
+  "version": "1.0.0",
+  "description": "Sync a notion database & pages to a vector DB with embed values",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node ingest.ts"
+  },
+  "author": "Romain Quilliot <romain@evaneos.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.6",
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.104"
+  }
+}
