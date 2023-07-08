@@ -35,6 +35,7 @@ Arguments de la CLI:
 
 ## Comment l'utiliser
 - Créer un `.env` à partir du `.env.dist`
+- Installer les dépendances `npm install`
 
 **Ingest**
  ```bash
