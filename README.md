@@ -5,7 +5,7 @@ Cela permet de les rendre cherchable par similarité par rapport à une "query" 
 
 ## Comment ça marche ?
 ### Ingest
-[!ingest_schema](./doc/asset/ingest_schema.png)
+![ingest_schema](./doc/asset/ingest_schema.png)
 
 ### Search (demo)
 
